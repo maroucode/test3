@@ -1,0 +1,2 @@
+name: Push Checkstyle report
+uses: jwgmeligmeyling/checkstyle-github-action@v1.2
